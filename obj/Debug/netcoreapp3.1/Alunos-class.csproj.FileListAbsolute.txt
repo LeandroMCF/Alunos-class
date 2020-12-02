@@ -1,0 +1,13 @@
+C:\Users\leand\OneDrive\Área de Trabalho\Alunos-class\bin\Debug\netcoreapp3.1\Alunos-class.exe
+C:\Users\leand\OneDrive\Área de Trabalho\Alunos-class\bin\Debug\netcoreapp3.1\Alunos-class.deps.json
+C:\Users\leand\OneDrive\Área de Trabalho\Alunos-class\bin\Debug\netcoreapp3.1\Alunos-class.runtimeconfig.json
+C:\Users\leand\OneDrive\Área de Trabalho\Alunos-class\bin\Debug\netcoreapp3.1\Alunos-class.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Área de Trabalho\Alunos-class\bin\Debug\netcoreapp3.1\Alunos-class.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Alunos-class\bin\Debug\netcoreapp3.1\Alunos-class.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Alunos-class\obj\Debug\netcoreapp3.1\Alunos-class.csprojAssemblyReference.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Alunos-class\obj\Debug\netcoreapp3.1\Alunos-class.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Alunos-class\obj\Debug\netcoreapp3.1\Alunos-class.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\Alunos-class\obj\Debug\netcoreapp3.1\Alunos-class.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Alunos-class\obj\Debug\netcoreapp3.1\Alunos-class.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Alunos-class\obj\Debug\netcoreapp3.1\Alunos-class.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Alunos-class\obj\Debug\netcoreapp3.1\Alunos-class.genruntimeconfig.cache
